@@ -1,3 +1,7 @@
-body{
-    background: #bdbdbd;
+body {
+  background: url(./7270362.gif),rgba(0, 0, 0, 0.422);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-blend-mode: multiply;
 }
